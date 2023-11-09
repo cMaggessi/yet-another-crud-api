@@ -26,7 +26,10 @@
 
 <h3>Don't forget to setup your env file</h3>
 <code>DATABASE_NAME=your_database_goes_here</code>
+<br>
 <code>DATABASE_USERNAME=your_username_goes_here</code>
+<br>
 <code>DATABASE_PASSWORD=your_password_goes_here</code>
+<br>
 
 <h2>TO BE CONTINUED..</code>
