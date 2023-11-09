@@ -9,7 +9,7 @@
 <li>Password encryption</li>
 </ul>
 
-<h4>Honestly, that's it, I'm out of ideas, maybe some e-mail confirmation? Idk I'll try to come up with spicy things as I get this done, this is going to be my very first big project publicly on here.</h4>
+<h4><p>Honestly, that's it, I'm out of ideas, maybe some e-mail confirmation? Idk I'll try to come up with spicy things as I get this done, this is going to be my very first big project publicly on here.</p></h4>
 
 
 <h3>Run docker postgresql image</h3>
