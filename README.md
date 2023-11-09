@@ -5,12 +5,12 @@
 
 
 <h3>Initialize project</h3>
-<code>npm init -y</code>
-<code>npm install</code>
+<code>$ npm init -y</code>
+<code>$ npm install</code>
 
 
 <h3>(Optional) install 'nodemon' package for better dev experience</h3>
-<code>npm i nodemon -D</code>
+<code>$ npm i nodemon -D</code>
 
 
 
