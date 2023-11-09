@@ -10,20 +10,24 @@
 <li>Protected routes with JWT authentication and user permission/validation</li>
 <li>Password encryption</li>
 </ul>
-
+<hr/>
 <b>Honestly, that's it, I'm out of ideas, maybe some e-mail confirmation? Idk I'll try to come up with spicy things as I get this done, this is going to be my very first big project publicly on here.</b>
-
+<hr/>
+<br>
+<br>
+<h2>Setup</h2>
+<hr/>
 <h3>Run docker postgresql image</h3>
 <code>$ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres</code>
-
+<hr/>
 <h3>Initialize project</h3>
 <code>$ npm init -y</code>
 <br>
 <code>$ npm install</code>
-
+<hr/>
 <h3>(Optional) install 'nodemon' package for better dev experience</h3>
 <code>$ npm i nodemon -D</code>
-
+<hr/>
 <h3>Don't forget to setup your env file</h3>
 <code>DATABASE_NAME=your_database_goes_here</code>
 <br>
@@ -31,5 +35,5 @@
 <br>
 <code>DATABASE_PASSWORD=your_password_goes_here</code>
 <br>
-
+<hr/>
 <h2>TO BE CONTINUED..</code>
