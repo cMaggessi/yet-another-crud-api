@@ -6,6 +6,7 @@
 
 <h3>Initialize project</h3>
 <code>$ npm init -y</code>
+<br>
 <code>$ npm install</code>
 
 
