@@ -1,7 +1,7 @@
 # Fullstack application
 # Currently on the backend stuff right now
 
-<h2>Next phase</h2>
+<h2>Next phase for backend</h2>
 <ul>
 <li>Finish user controller (right now we have create, get one, get all)</li>
 <li>Create some basic TODO stuff, users can only see their created TODOs, admin can see all TODOs etc...</li>
