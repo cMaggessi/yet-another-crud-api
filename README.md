@@ -27,9 +27,9 @@
 <code>$ npm i nodemon -D</code>
 
 <h3>Don't forget to setup your env file</h3>
-<p>DATABASE_NAME=your_database_goes_here</p>
+<code><p>DATABASE_NAME=your_database_goes_here</p>
 <p>DATABASE_USERNAME=your_username_goes_here</p>
-<p>DATABASE_PASSWORD=your_password_goes_here</p>
+<p>DATABASE_PASSWORD=your_password_goes_here</p></code>
 
 
 
