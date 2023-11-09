@@ -1,8 +1,6 @@
 # Fullstack application
 
-# Currently on the backend stuff right now
-
-<h2>Next phase for backend</h2>
+<h2>Next phase for backend (currently working)</h2>
 
 <ul>
 <li>Finish user controller (right now we have create, get one, get all)</li>
