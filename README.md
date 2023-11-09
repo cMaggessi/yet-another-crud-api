@@ -10,13 +10,12 @@
 <li>Protected routes with JWT authentication and user permission/validation</li>
 <li>Password encryption</li>
 </ul>
-<hr/>
+<br>
 <b>Honestly, that's it, I'm out of ideas, maybe some e-mail confirmation? Idk I'll try to come up with spicy things as I get this done, this is going to be my very first big project publicly on here.</b>
 <hr/>
 <br>
 <br>
-<h2>Setup</h2>
-<hr/>
+<h1>Setup</h1>
 <h3>Run docker postgresql image</h3>
 <code>$ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres</code>
 <hr/>
