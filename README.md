@@ -25,7 +25,7 @@
 <h3>(Optional) install 'nodemon' package for better dev experience</h3>
 <code>$ npm i nodemon -D</code>
 <hr/>
-<h3>Don't forget to setup your env file</h3>
+<h3>Don't forget to setup your .env file</h3>
 <code>DATABASE_NAME=your_database_goes_here</code>
 <br>
 <code>DATABASE_USERNAME=your_username_goes_here</code>
